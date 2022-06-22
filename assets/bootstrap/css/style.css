@@ -1,0 +1,10 @@
+body{
+    background-color: white;
+}
+
+
+#profile-photo{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
